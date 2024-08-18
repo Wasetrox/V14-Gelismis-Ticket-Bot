@@ -1,0 +1,17 @@
+{
+    "name": "my-ticket-bot",
+    "version": "1.0.0",
+    "description": "A Discord ticket bot using discord.js v14",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "dependencies": {
+        "@discordjs/voice": "^0.17.0",
+        "discord.js": "^14.0.0",
+        "fs": "0.0.1-security",
+        "rm": "^0.1.8"
+    },
+    "author": "Your Name",
+    "license": "MIT"
+}
