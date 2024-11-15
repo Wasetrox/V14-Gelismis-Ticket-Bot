@@ -11,3 +11,4 @@ client.on('interactionCreate', async (interaction) => {
         await deleteTicketChannel(interaction);
     }
 });
+
