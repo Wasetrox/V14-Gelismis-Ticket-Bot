@@ -44,8 +44,8 @@ module.exports = {
 
         // Oynuyor durumunu 5 saniyede bir değiştirme
         const statuses = [
-            { name: 'Yayın yapıyor', type: ActivityType.Streaming, url: 'https://twitch.tv/wustifix' },
-            { name: 'Bir şeyler yapıyor...', type: ActivityType.Streaming, url: 'https://twitch.tv/wustifix' },
+            { name: '🤍 Wasetrox Was Here', type: ActivityType.Streaming, url: 'https://twitch.tv/wasetrox' },
+            { name: 'LuminaHost | Kalitenin Tek Adresi', type: ActivityType.Streaming, url: 'https://twitch.tv/wasetrox' },
         ];
 
         let currentStatus = 0;
